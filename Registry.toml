@@ -4,4 +4,5 @@ repo = "git@github.com:goerz-testing/TestingRegistry.git"
 description = "A Julia Registry for Testing"
 
 [packages]
+0964fe9f-8940-4aac-95dd-e092a7137023 = { name = "PkgDebugPkgB", path = "P/PkgDebugPkgB" }
 621084bb-f1a1-45e5-9057-22828cfd6aaa = { name = "PkgDebugPkgA", path = "P/PkgDebugPkgA" }
