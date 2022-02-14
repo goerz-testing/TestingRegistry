@@ -1,0 +1,6 @@
+name = "TestingRegistry"
+uuid = "d01b86c3-3268-4937-b47e-17f00b7a64c1"
+repo = "git@github.com:goerz-testing/TestingRegistry.git"
+description = "A Julia Registry for Testing"
+
+[packages]
